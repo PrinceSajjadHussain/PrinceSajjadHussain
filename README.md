@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sajjad
+- 👋 Hi, I’m sajjad. Data Scientist, Artifical Intelligent, Docker, Microservices, Java, Quarkus, Postman, dbeaver database,Python, ML,DP,CV, 
 - 👀 I’m interested in AI Research Work(AI Robotics)
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on Humanoid Robots
