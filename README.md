@@ -58,7 +58,6 @@ I'm a passionate developer from Pakistan who thrives on building innovative solu
 
 #### 🌐 Open Source Contribution Tracker
 - **Tech:** FastAPI, React, Redis, PostgreSQL
-- **GitHub Stars:** ⭐ 250+ | 🍴 Forks: 50+
 - **Summary:** A gamified platform to track and rank open-source activity.
 
 ---
@@ -102,13 +101,6 @@ I'm a passionate developer from Pakistan who thrives on building innovative solu
 
 ---
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSajjadHussain&theme=tokyonight" height="180" />
-</p>
-
----
 
 ### ✨ Fun Fact
 
